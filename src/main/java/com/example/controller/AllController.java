@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class AllController {
 
 	
-	@RequestMapping("/ss")//登入
+	@RequestMapping("/ss")//登入lalala
 	public String login() {
 		return "index.html";
 	}
